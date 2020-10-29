@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_maps3">Map</string>
+    <string name="title_activity_maps4">Map</string>
+    <string name="title_main">Buenos Aires</string>
+    <string name="text_intro">Seleccione el lugar: </string>
+    <string name="text_mapa">El Obelisco</string>
+    <string name="text_mapa2">Reserva Costanera Sur</string>
+    <string name="text_mapa3">Monumetal de Nuñez</string>
+    <string name="text_mapa4">La Bombonera</string>
+
+</resources>
